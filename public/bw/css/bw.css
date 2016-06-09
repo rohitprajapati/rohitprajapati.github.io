@@ -1,0 +1,15 @@
+.aligner {
+    width: 800px;
+    background-color: #DFE2DB;
+}
+.bw-arrow {
+    display: block;
+    width: 50%;
+    text-align: center;
+}
+.bw-arrow.left {
+    float: left;
+}
+.bw-arrow.right {
+    float: right;
+}

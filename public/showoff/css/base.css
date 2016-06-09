@@ -1,0 +1,59 @@
+.header {
+    height: 0;
+}
+
+.content {
+    height: 700px;
+}
+
+.left-pane {
+    float: left;
+    width: 50%;
+}
+
+.right-pane {
+    float: left;
+    width: 50%;
+    border-left: 2px solid #D6D6D6;
+    height: 700px;
+    overflow-y: scroll;
+}
+
+.right-scroll-pane {
+}
+
+.photo-thrumbnail {
+    float: left;
+    border: 1px solid #D6D6D6;
+    margin: 2%;
+    width: 132px;
+    height: 132px;
+}
+
+.photo-thrumbnail:hover {
+    cursor: pointer;
+}
+
+.profile-pic-thrumbnail {
+    position: relative;
+    top: 50%;
+    -webkit-transform: translateY(-50%);
+    -ms-transform: translateY(-50%);
+    transform: translateY(-50%);
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#selected-photo {
+    width: 500px;
+    height: 500px;
+    margin: 0 auto;
+    margin-top: 100px;
+    border: 1px solid #D6D6D6;
+}
+
+#selected-pic {
+    width: 498px;
+    height: 498px;
+}

@@ -2,10 +2,10 @@
   "basics": {
     "name": "Rohit Prajapati",
     "label": "Senior Software Deveoper",
-    "picture": "http://rohit-prajapati.github.io/public/common/img/rohit-prajapati-2.jpg",
+    "picture": "http://rohit.onetipout.com/rohit_prajapati_2.jpg",
     "email": "rohit.prajapati.64@gmail.com",
     "phone": "9971449914",
-    "website": "http://rohit-prajapati.github.io",
+    "website": "http://rohitprajapati.github.io",
     "summary": "Worked on more than 3 backend languages for multiple products related to advertising. I can work as full-stack web developer on both the frontend and backend technologies. Like to make things efficient and smooth. Love to design complete solution for the given problem.",
     "location": {
       "address": "3723, Gali Kumharon Wali, Roshnara Road",
@@ -92,7 +92,7 @@
         "Node.js",
         "Mysql",
         "Java",
-        "Paython"
+        "Python"
       ]
     }
 

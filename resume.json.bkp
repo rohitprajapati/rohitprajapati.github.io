@@ -6,9 +6,9 @@
     "email": "rohit.prajapati.64@gmail.com",
     "phone": "9971449914",
     "website": "http://rohitprajapati.github.io",
-    "summary": "Worked on more than 3 backend languages for multiple products related to advertising. I can work as full-stack web developer. Like to make things efficient and smooth. Love to design complete solution for the given problem.",
+    "summary": "Worked on more than 3 backend languages for multiple products related to advertising. I can work as full-stack web developer on both the frontend and backend technologies. Like to make things efficient and smooth. Love to design complete solution for the given problem.",
     "location": {
-      "address": "L-23D, Gali No. 15, New Mahabir Nagar, Tilak Nagar",
+      "address": "3723, Gali Kumharon Wali, Roshnara Road",
       "postalCode": "110007",
       "city": "Delhi",
       "countryCode": "India"
@@ -34,11 +34,9 @@
       "startDate": "2015-04-06",
       "summary": "Paytm is an e-commerce platform for digital and physical products",
       "highlights": [
-        "Revenue generation for orders",
-        "Merchant payout generation on daily basis",
-        "Report on demand",
-        "Merchant ledger",
-        "Dynamic commission structure"
+        "Worked on merchant payout system",
+        "Worked on commission system",
+        "Worked on demand reports system"
       ]
     },
     {

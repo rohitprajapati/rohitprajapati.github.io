@@ -1,0 +1,27 @@
+User-agent: *
+
+Disallow: /masterpage.html/
+
+Allow: /barrel-shape-brass-tandoors.html/
+Allow: /barrel-shape-copper-tandoors.html/
+Allow: /barrel-shape-rope-tandoors.html/
+Allow: /barrel-shape-steel-tandoors.html/
+Allow: /clay-tandoors.html/
+Allow: /tandoors-gallery.html/
+Allow: /home-tandoors.html/
+Allow: /mild-steel-catering-tandoors.html/
+Allow: /mild-steel-home-tandoors.html/
+Allow: /mild-steel-round-tandoors.html/
+Allow: /mild-steel-square-tandoors.html/
+Allow: /stainless-steel-home-tandoors.html/
+Allow: /stainless-steel-round-tandoors.html/
+Allow: /stainless-steel-square-tandoors.html/
+Allow: /stainless-steel-tapper-tandoors.html/
+Allow: /wall-fitting-tandoors.html/
+
+Allow: /about_us.html/
+Allow: /accessories.html/
+Allow: /barbecue.html/
+Allow: /contact_us.html/
+Allow: /product.html/
+Allow: /seekhdi.html/

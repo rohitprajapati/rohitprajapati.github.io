@@ -592,29 +592,66 @@ table.hovertable td {
   margin-left: 50px;
   display: inline-block;
 }
-
-.faddress{
-
-  display: inline-block;
-  margin-left: 60px;
+  .faddress{
+    display: inline-block;
+    margin-left: 110px;
   }
   .cperson{
-  display: inline-block;
-  margin-left: 50px;
-margin-bottom: 50px;
-  }
-
-  .Emails{
-  display: inline-block;
-  margin-left: 30px;
+    display: inline-block;
+    margin-left: 50px;
     margin-bottom: 50px;
   }
-
+  .Emails{
+    display: inline-block;
+    margin-left: 30px;
+    margin-bottom: 50px;
+  }
   .enquiryform{
     display: inline-block;
     margin-left: 150px;
   }
-
+  .ctcol1{
+    vertical-align: top;
+    margin-left: 50px;
+  }
+  .ctcol2{
+    vertical-align: top;
+    display: inline-block;
+    margin-left: 50px;
+  }
+  .webicon1 {
+    display: inline-block;
+    vertical-align:middle;
+  }
+  .webicon2 {
+    display: inline-block;
+    vertical-align: middle;
+    margin-left: 50px;
+    position: absolute;
+    left: 60px;
+    top: 0;
+  }
+  .webrow {
+    position: relative;
+    width: 400px;
+  }
+  .webimg {
+    vertical-align:middle;
+  }
+  .youtube_img {
+    position: absolute;
+    top: -10px;
+    left: -5px;
+  }
+  .ctcol1 > b {
+    font-size: 16px;
+  }
+  .ctcol2 > b {
+    font-size: 16px;
+  }
+  .compname > b {
+    font-size: 20px
+  }
 
   #cForm {
   background: url("../img/textstrip.png") no-repeat;

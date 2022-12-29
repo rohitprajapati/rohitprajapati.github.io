@@ -1004,3 +1004,7 @@ a.gp:hover{
     height: 180px;
 }
 }
+
+.hs-img-center img {
+  width: 100%
+}
